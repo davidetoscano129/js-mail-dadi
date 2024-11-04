@@ -6,7 +6,7 @@ Chiedi all’utente di inserire la sua email, confrontala con una lista di email
 ### ESECUZIONE LOGICA
 Per ogni email presente nella lista autorizzata:
 	•	Se l’email dell’utente corrisponde a una delle email autorizzate -> Stampa: “Accesso concesso”.
-	•	Altrimenti -> Stampa: “Accesso non concesso”.
+	•	Altrimenti -> Stampa: “Accesso negato".
 
 ## DADI
 Simula un gioco in cui sia il giocatore che il computer lanciano un dado (valore casuale da 1 a 6). Determina il vincitore in base al punteggio più alto.
